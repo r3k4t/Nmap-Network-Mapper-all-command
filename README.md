@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-<head>
 <link rel="stylesheet" href="style.css">
-</head>
+<head>
 <body>
 <h1>Nmap[Network Mapper]</h1>
 

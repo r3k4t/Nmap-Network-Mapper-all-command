@@ -3,7 +3,6 @@
 <head>
 <title>
 <head>
-<title>The Network Mapper</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>

@@ -42,7 +42,7 @@
 + nmap --script default 172.16.50.4
 + nmap -p 21 --script-trace --script ftp-anon 172.16.50.4
 
-<h4>Operating System detection Techniques</h4>
+<h4>OS Detection Techniques</h4>
 
 + nmap -O 172.16.50.4
 + nmap -O --osscan-guess 172.16.50.4
